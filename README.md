@@ -1,1 +1,1 @@
-# Hastane-Y-netim-Sistemi
+# Hastane-Yonetim-Sistemi
